@@ -20,7 +20,7 @@ A simple desktop application that converts distances from miles to kilometers. T
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/mile_to_km_convertor.git
+git clone https://github.com/<username>/mile_to_km_convertor.git
 cd mile_to_km_convertor
 ```
 
